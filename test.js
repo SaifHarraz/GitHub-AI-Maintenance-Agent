@@ -2,4 +2,4 @@ function calculateTotal(price, quantity) {
   return price * quantity;
 }
 
-console.log(calculateTotal(100, 13));
+console.log(calculateTotal(100, 19));
