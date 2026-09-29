@@ -4,5 +4,4 @@ function calculateTotal(price, quantity,sale) {
 
 console.log(calculateTotal(100, 49,.4));
 // sdasdas  
-// last testtttttt
-// last of the last
+// last testttt
