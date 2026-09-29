@@ -3,5 +3,4 @@ function calculateTotal(price, quantity,sale) {
 }
 
 console.log(calculateTotal(100, 49,.4));
-// sdasdas  
-//adadgggggggggggggggg
+// sda
